@@ -5,8 +5,9 @@ This repository hosts personal practice solutions for multiple coding competitio
 ## Contents
 
 - **Languages**
-  - C++ (C++17)
+  - Java (17+)
   - Python 3
+  - C++ (C++17)
 
 - **Solutions (one file per problem)**
   - Airline-Travelling.cpp — 100% Acceptance
@@ -38,13 +39,50 @@ This repository hosts personal practice solutions for multiple coding competitio
   - Visi-Egypt.cpp — 100% Acceptance
   - White-Knights-and-Black-Warriors.cpp — 100% Acceptance
 
+## Repository Structure
+
+- **Root**
+  - `CONTRIBUTING.md`
+  - `READMe.md`
+  - `LICENSE,md`
+  - `IEEE_Xtreme_19/` — flat folder with one file per problem solution
+    - `Airline-Travelling.cpp`
+    - `Application-Abuse.cpp`
+    - `Baker-s-Competition.cpp`
+    - `Beatrice-and-the-Dream-Tree.cpp`
+    - `Become-as-one.cpp`
+    - `Bitonic-Sequence.cpp`
+    - `Circular-Permutation.py`
+    - `Continued-Fractions.cpp`
+    - `DO-you-know-Expectation.cpp`
+    - `Diameter-Problem-Again.cpp`
+    - `Domino-Path.cpp`
+    - `EDPS.cpp`
+    - `Easy-Sum.cpp`
+    - `Four-Piles.cpp`
+    - `Hack-the-coach.cpp`
+    - `Ladder.cpp`
+    - `Magic-Wands.cpp`
+    - `New-Casino-Game.cpp`
+    - `Palindrome-Matrix.cpp`
+    - `Raju-s-Matrix-Runs.cpp`
+    - `Secure-Elliptic-Curve-Point-Addition.cpp`
+    - `Sequence-Decomposition.cpp`
+    - `Shailesh-s-Triplet.cpp`
+    - `Squared-Gaps.cpp`
+    - `Stable-Power-Network.cpp`
+    - `Twin-Occurence-Quest.cpp`
+    - `Visi-Egypt.cpp`
+    - `White-Knights-and-Black-Warriors.cpp`
+
 ## Build and Run
 
 All programs are console applications. There is no shared build system; compile and run each solution independently.
 
 - **Prerequisites**
-  - C++: g++ with C++17 support (e.g., MinGW-w64 on Windows)
+  - Java: JDK 17+
   - Python: Python 3.8+ (for `Circular-Permutation.py`)
+  - C++: g++ with C++17 support (e.g., MinGW-w64 on Windows)
 
 - **Compile (C++)**
   - Example (Windows, MinGW):
@@ -56,6 +94,12 @@ All programs are console applications. There is no shared build system; compile 
     g++ -O2 -std=c++17 Easy-Sum.cpp -o Easy-Sum.exe
     ```
 
+- **Compile (Java)**
+  - Example:
+    ```bash
+    javac Main.java
+    ```
+
 - **Run**
   - C++:
     ```bash
@@ -64,6 +108,10 @@ All programs are console applications. There is no shared build system; compile 
   - Python:
     ```bash
     python Circular-Permutation.py < input.txt > output.txt
+    ```
+  - Java:
+    ```bash
+    java Main < input.txt > output.txt
     ```
 
 ## I/O Conventions
@@ -87,7 +135,8 @@ For other files, the naming follows the original problem titles; each solution i
 ## Adding New Solutions
 
 - Owner-only: Only the repository owner adds new solutions.
-- Follow the same I/O style (stdin/stdout) and C++17/Python 3 standards.
+- Allowed languages: Java, Python, and C++.
+- Follow the same I/O style (stdin/stdout) and use Java 17+, Python 3, or C++17 standards.
 - See `CONTRIBUTING.md` for structure and conventions used across problems.
 
 ## License
