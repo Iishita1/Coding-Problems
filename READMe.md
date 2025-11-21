@@ -86,8 +86,9 @@ For other files, the naming follows the original problem titles; each solution i
 
 ## Adding New Solutions
 
-- Place each new solution as a single source file at the repo root.
+- Owner-only: Only the repository owner adds new solutions.
 - Follow the same I/O style (stdin/stdout) and C++17/Python 3 standards.
+- See `CONTRIBUTING.md` for structure and conventions used across problems.
 
 ## License
 
@@ -96,3 +97,7 @@ No explicit license is provided. Treat this repository as personal practice code
 ## Acknowledgments
 
 - Currently includes problems from IEEE Xtreme 19.0. This repository is not affiliated with IEEE.
+
+## Contributing
+
+This is an owner-maintained repository. External contributions (pull requests) are not accepted. If you notice an issue or have a suggestion, you may open an issue. For repository conventions and structure, see `CONTRIBUTING.md`.
