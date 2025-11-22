@@ -9,36 +9,6 @@ This repository hosts personal practice solutions for multiple coding competitio
   - Python 3
   - C++ (C++17)
 
-- **Solutions (one file per problem)**
-  - Airline-Travelling.cpp — 100% Acceptance
-  - Application-Abuse.cpp — 100% Acceptance
-  - Baker-s-Competition.cpp — 100% Acceptance
-  - Beatrice-and-the-Dream-Tree.cpp — 100% Acceptance
-  - Become-as-one.cpp — 100% Acceptance
-  - Bitonic-Sequence.cpp — 100% Acceptance
-  - Circular-Permutation.py — 100% Acceptance
-  - Continued-Fractions.cpp — 100% Acceptance
-  - DO-you-know-Expectation.cpp — 100% Acceptance
-  - Diameter-Problem-Again.cpp — 100% Acceptance
-  - Domino-Path.cpp — 100% Acceptance
-  - EDPS.cpp — 100% Acceptance
-  - Easy-Sum.cpp — 100% Acceptance
-  - Four-Piles.cpp — 100% Acceptance
-  - Hack-the-coach.cpp — 100% Acceptance
-  - Ladder.cpp — 100% Acceptance
-  - Magic-Wands.cpp — 100% Acceptance
-  - New-Casino-Game.cpp — 100% Acceptance
-  - Palindrome-Matrix.cpp — 100% Acceptance
-  - Raju-s-Matrix-Runs.cpp — 100% Acceptance
-  - Secure-Elliptic-Curve-Point-Addition.cpp — 100% Acceptance
-  - Sequence-Decomposition.cpp — 100% Acceptance
-  - Shailesh-s-Triplet.cpp — 100% Acceptance
-  - Squared-Gaps.cpp — 100% Acceptance
-  - Stable-Power-Network.cpp — 100% Acceptance
-  - Twin-Occurence-Quest.cpp — 100% Acceptance
-  - Visi-Egypt.cpp — 100% Acceptance
-  - White-Knights-and-Black-Warriors.cpp — 100% Acceptance
-
 ## Repository Structure
 
 - **Root**
